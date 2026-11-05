@@ -1,0 +1,9 @@
+h1{
+    color: rgb(83, 133, 243);
+}
+body{
+    background-color: rgb(250, 238, 214);
+    font-family: Georgia, Times, 'Times New Roman', serif, sans-serif;
+    margin: 0;
+    padding: 0;
+}
