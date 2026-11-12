@@ -7,4 +7,7 @@ Avance 1:
 HOBBIES: VIDEOJUEGOS Y PELICULAS
 Creacione de ramas de git
 git branch //Leer ramas
-git switch -c  hobbies // Craer ramas sin -c navegas ramas COMIDA FAVORITA: encebollado
+COMIDA FAVORITA: encebollado
+git switch -c  hobbies // Craer ramas sin -c navegas ramas 
+git merge hobbies // mandar a main 
+git branch -d hobbies // eliminar rama hobbies
